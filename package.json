@@ -7,7 +7,7 @@
   "license": "ISC",
   "main": "src/index.js",
   "dependencies": {
-    "file-type": "^12.4.0",
+    "file-type": "^16.5.4",
     "image-size": "^0.8.3",
     "lodash": "^4.17.15"
   },
